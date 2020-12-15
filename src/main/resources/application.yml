@@ -1,0 +1,6 @@
+springfox:
+  documentation:
+    swagger:
+      v2:
+        path=/swagger.json
+
